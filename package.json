@@ -1,0 +1,13 @@
+{
+  "name": "jwt_node_test",
+  "description": "Criar e verificar JWTs com Node.js",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  }
+}
